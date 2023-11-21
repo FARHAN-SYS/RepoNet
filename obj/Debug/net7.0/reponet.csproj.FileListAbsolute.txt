@@ -1,0 +1,14 @@
+C:\Users\SHAH\WebDev\.NetDev\GitNet\reponet\bin\Debug\net7.0\reponet.exe
+C:\Users\SHAH\WebDev\.NetDev\GitNet\reponet\bin\Debug\net7.0\reponet.deps.json
+C:\Users\SHAH\WebDev\.NetDev\GitNet\reponet\bin\Debug\net7.0\reponet.runtimeconfig.json
+C:\Users\SHAH\WebDev\.NetDev\GitNet\reponet\bin\Debug\net7.0\reponet.dll
+C:\Users\SHAH\WebDev\.NetDev\GitNet\reponet\bin\Debug\net7.0\reponet.pdb
+C:\Users\SHAH\WebDev\.NetDev\GitNet\reponet\obj\Debug\net7.0\reponet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHAH\WebDev\.NetDev\GitNet\reponet\obj\Debug\net7.0\reponet.AssemblyInfoInputs.cache
+C:\Users\SHAH\WebDev\.NetDev\GitNet\reponet\obj\Debug\net7.0\reponet.AssemblyInfo.cs
+C:\Users\SHAH\WebDev\.NetDev\GitNet\reponet\obj\Debug\net7.0\reponet.csproj.CoreCompileInputs.cache
+C:\Users\SHAH\WebDev\.NetDev\GitNet\reponet\obj\Debug\net7.0\reponet.dll
+C:\Users\SHAH\WebDev\.NetDev\GitNet\reponet\obj\Debug\net7.0\refint\reponet.dll
+C:\Users\SHAH\WebDev\.NetDev\GitNet\reponet\obj\Debug\net7.0\reponet.pdb
+C:\Users\SHAH\WebDev\.NetDev\GitNet\reponet\obj\Debug\net7.0\reponet.genruntimeconfig.cache
+C:\Users\SHAH\WebDev\.NetDev\GitNet\reponet\obj\Debug\net7.0\ref\reponet.dll
